@@ -1,0 +1,9 @@
+{
+	"canisters": {
+		"icrc1-ledger": {
+			"type": "custom",
+			"wasm": "icrc1-ledger.wasm",
+			"candid": "icrc1-ledger.did"
+		}
+	}
+}
