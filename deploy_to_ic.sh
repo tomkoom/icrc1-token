@@ -14,6 +14,7 @@ export ARCHIVE_CONTROLLER=$DAO_BACKEND
 export TOKEN_NAME="tkn"
 export TOKEN_SYMBOL="TKN"
 
+# reinstall
 dfx canister --network ${NETWORK} install icrc1-ledger --argument '(variant { Init = 
       record {
         token_name = "'${TOKEN_NAME}'";
