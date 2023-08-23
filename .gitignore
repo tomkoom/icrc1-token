@@ -9,9 +9,3 @@
 
 # dfx temporary files
 .dfx/
-
-# token info
-token.md
-
-# mainnet canister id
-canister_ids.json
